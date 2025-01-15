@@ -10,7 +10,7 @@ Welcome to my personal portfolio, showcasing my web development projects and ski
 
 ## 🖥️ **Live Demo**  
 You can view my portfolio live here:  
-[Portfolio Website](https://github.io/soman-sabeel/Portfolio)
+[Portfolio Website](https://soman-sabeel.github.io/Portfolio/)
 
 ## 📂 **Project Structure**  
 - **`index.html`**: Main landing page containing the essential structure and navigation.
