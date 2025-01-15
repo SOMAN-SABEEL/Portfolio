@@ -30,7 +30,7 @@ If you'd like to use or modify this portfolio for your own personal use, follow 
    - Open a terminal (command prompt or Git Bash).
    - Run the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/soman-sabeel/portfolio.git
+   git clone https://github.com/soman-sabeel/Portfolio.git
 
 2. **Navigate to the Project Folder**:
    - Go to the directory where the project was cloned:
