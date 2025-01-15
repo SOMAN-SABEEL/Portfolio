@@ -10,7 +10,7 @@ Welcome to my personal portfolio, showcasing my web development projects and ski
 
 ## 🖥️ **Live Demo**  
 You can view my portfolio live here:  
-[Portfolio Website](https://yourportfolio.com)
+[Portfolio Website](https://github.io/soman-sabeel/Portfolio)
 
 ## 📂 **Project Structure**  
 - **`index.html`**: Main landing page containing the essential structure and navigation.
@@ -22,7 +22,6 @@ You can view my portfolio live here:
 - **CSS**: For styling, responsive design, and making the website visually appealing.
 - **JavaScript**: To add interactivity and enhance user experience across the site.
 - **Typed.js**: For creating animated text effects on the homepage.
-- **(Optional)**: Any other libraries or frameworks used, e.g., Bootstrap, React, or Vue.js.
 
 ## 📥 **Getting the Portfolio Locally**  
 If you'd like to use or modify this portfolio for your own personal use, follow these steps to get it running on your local machine:
@@ -31,7 +30,7 @@ If you'd like to use or modify this portfolio for your own personal use, follow 
    - Open a terminal (command prompt or Git Bash).
    - Run the following command to clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/soman-sabeel/portfolio.git
 
 2. **Navigate to the Project Folder**:
    - Go to the directory where the project was cloned:
